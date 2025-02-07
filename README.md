@@ -3,6 +3,9 @@
 ## Beskrivning
 Detta projekt syftar till att skapa en balanserande plattform med hjälp av en Arduino, en accelerometer (LIS3DH) och två servon. Plattformen justerar sin lutning automatiskt baserat på sensoravläsningar för att hålla sig stabil.
 
+[![Demonstration](https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg)](https://youtube.com/shorts/fYFBIF4i_Ew?feature=share)
+
+
 ## Funktioner
 - Använder en accelerometer för att mäta plattformens lutning i X- och Y-led.
 - Justerar två servon för att balansera plattformen.
